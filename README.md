@@ -1,7 +1,20 @@
 
 ![Banner](./banner.svg)
-# 💫 About Me:
-👋 Hi, I'm George , a passionate Golang Developer with a strong focus on building scalable and secure backend systems.<br><br>👯 I’m looking to collaborate on backend projects, especially those involving RESTful APIs, microservices, and cybersecurity.<br><br>🌱 I’m currently expanding my knowledge in secure web development, distributed systems, and cloud technologies.<br><br>🚀 My projects include eCommerce platforms, property management systems, and cybersecurity tools, all designed with clean architecture and best practices.<br><br>🔍 Interested in cybersecurity, and AI-driven solutions.
+
+# 👋 Hi, I'm George – Backend Developer (Golang)
+
+I’m a passionate **Golang backend engineer** with a strong focus on building **secure**, **scalable**, and **cleanly architected systems**. My work revolves around solving real-world problems using microservices, distributed systems, and security-first principles.
+
+---
+
+## 💼 What I Do
+
+- 🔧 Build **RESTful APIs** and **microservices** in Go using tools like **Gin**, **GORM**, and **gRPC**
+- 🔐 Design with **security in mind**, applying best practices (JWT, RBAC, input validation, rate limiting)
+- 🧪 Integrate **testing and CI/CD pipelines** (GoSec, Docker, GitHub Actions)
+- 🐳 Containerize and orchestrate services with **Docker Compose**
+- 📈 Implement **monitoring and tracing** using **Prometheus, Grafana, and Jaeger**
+- 💡 Explore cybersecurity tools and automation techniques
 
 
 # 💻 Tech Stack:
