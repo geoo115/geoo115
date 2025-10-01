@@ -9,7 +9,7 @@ Inspired by my volunteer work, I build production-ready backend systems to solve
 ### 🏥 [Charity Management Platform](https://github.com/geoo115/charity-management-system)
 > **Motivation**: A proof-of-concept built after volunteering and witnessing operational challenges firsthand.
 
-**Live**: [Backend](https://charity-backend-w5cm.onrender.com) • [Frontend](https://charity-management-system-puce.vercel.app)
+**Demo Live**: [Backend](https://charity-backend-w5cm.onrender.com) • [Frontend](https://charity-management-system-puce.vercel.app)
 
 A full-stack platform designed to manage donations, volunteer scheduling, and visitor check-ins, replacing inefficient spreadsheet-based systems.
 
